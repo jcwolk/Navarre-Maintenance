@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Navarre Maintenance, LLC</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5faff;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background: #0074a2;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    .logo {
+      max-width: 180px;
+      margin: 0 auto 10px;
+    }
+    .container {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #0074a2;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    .contact {
+      background: #eef8fc;
+      padding: 15px;
+      border-radius: 5px;
+    }
+    .footer {
+      text-align: center;
+      padding: 10px;
+      font-size: 0.9em;
+      color: #777;
+      background: #f1f1f1;
+    }
+    .btn {
+      background: #0074a2;
+      color: white;
+      padding: 10px 20px;
+      display: inline-block;
+      text-decoration: none;
+      margin-top: 10px;
+      border-radius: 5px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="navarre-maintenance-logo.png" alt="Navarre Maintenance Logo" class="logo" />
+  <h1>Navarre Maintenance, LLC</h1>
+  <p>Tile • Flooring • Repairs • Renovation</p>
+</header>
+
+<div class="container">
+
+  <div class="section">
+    <h2>About Us</h2>
+    <p>We're a locally owned and operated maintenance and renovation company based in Navarre, Florida. With over 20 years of hands-on experience, we specialize in tile installation, luxury vinyl plank flooring, and general maintenance services. We work with homeowners and builders alike to deliver high-quality workmanship on time and within budget.</p>
+  </div>
+
+  <div class="section">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Tile Installation – Showers, Floors, Backsplashes</li>
+      <li>Luxury Vinyl Plank (LVP) Flooring</li>
+      <li>General Home Repairs & Maintenance</li>
+      <li>Subcontractor Work for Builders</li>
+      <li>Materials Provided Upon Request</li>
+    </ul>
+  </div>
+
+  <div class="section contact">
+    <h2>Contact</h2>
+    <p><strong>Jason Clarence Wolk</strong><br>
+    Phone: <a href="tel:8505658060">850-565-8060</a><br>
+    Email: <a href="mailto:navarremaintenance@gmail.com">navarremaintenance@gmail.com</a><br>
+    Location: Navarre, FL</p>
+
+    <p>We are fully insured (General Liability - $2 Million Aggregate via Gaslamp Insurance) and workers' comp exempt in Florida. Tools and materials can be provided as needed.</p>
+    
+    <a class="btn" href="mailto:navarremaintenance@gmail.com?subject=Subcontractor Inquiry">Request a Quote or Subcontractor Info</a>
+  </div>
+
+</div>
+
+<div class="footer">
+  &copy; 2025 Navarre Maintenance, LLC – All Rights Reserved
+</div>
+
+</body>
+</html> navarre-maintenance
+├── index.html  ✅
+├── README.md   (optional)
+├── logo.png    (if you have one)
